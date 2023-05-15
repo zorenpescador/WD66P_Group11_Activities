@@ -1,0 +1,76 @@
+* {
+    margin: 0%;
+}
+
+
+/* LEFT SIDE OF RESUME (CONTACT, EXPERTISE, REFERENCES) */
+.itemContainer {
+    padding: 10px;
+}
+
+#leftSide {
+    background-color: #f0e5d4;
+    padding-top: 10px;
+}
+
+#ysayId {
+    height:300px;
+    width:300px;
+}
+
+#contact {
+    padding-top: 30px;
+}
+
+.contact {
+    text-align: left;
+    padding: 15px 0px 15px 15px;
+}
+
+.expertiseList {
+    text-align: left;
+    padding: 15px 0px 15px 15px;
+}
+
+.referenceInfo {
+    padding: 10px;
+    text-align: left;
+}
+
+/* RIGHT SIDE OF RESUME (WORK EXP, EDUCATION, & TRAININGS) */
+
+#workInfo {
+    background-color: #fff9f1;
+    padding-top: 10px;
+}
+
+h1 {
+    font-weight: bold !important;
+    color: #010200 !important;
+    font-size: 90px !important;
+}
+
+#title {
+    padding: 50px;
+}
+
+#work {
+    padding: 20px;
+}
+
+#workItem {
+    padding: 20px;
+}
+
+
+h4,h5 {
+    text-align: left !important;
+}
+
+.workDesc {
+    text-align: left;
+}
+
+p {
+    text-align: left !important;
+}
