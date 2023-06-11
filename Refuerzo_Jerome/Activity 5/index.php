@@ -30,5 +30,10 @@ function computeStocks($item, $quantity)
 }
 
 
+computeStocks('Item1', 3);
+computeStocks('Item1', 5);
+computeStocks('Item2', 5);
+computeStocks('Item1', 50);
+computeStocks('Item3', 5);
 
 ?>
