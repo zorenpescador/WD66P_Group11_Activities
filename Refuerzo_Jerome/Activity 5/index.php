@@ -1,11 +1,11 @@
 <?php
 
-// Step 1: Creating global variables for the items
+
 $Item1 = 100;
 $Item2 = 200;
 $Item3 = 300;
 
-// Step 2: Creating a function to compute total stocks per item
+
 function computeStocks($item, $quantity)
 {
     global $Item1, $Item2, $Item3;
@@ -29,11 +29,6 @@ function computeStocks($item, $quantity)
     }
 }
 
-// Example usage
-computeStocks('Item1', 3);
-computeStocks('Item1', 5);
-computeStocks('Item2', 5);
-computeStocks('Item1', 50);
-computeStocks('Item3', 5);
+
 
 ?>
