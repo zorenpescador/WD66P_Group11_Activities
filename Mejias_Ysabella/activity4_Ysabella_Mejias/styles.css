@@ -1,4 +1,51 @@
 img {
-    height:fit-content;
+    height:auto;
+    width: auto;
+    padding-top: 15%;
+}
+
+
+h1, h2 {
+    color: white;
+}
+
+.hero-text {
+    padding: 28vh 0vh 28vh;
+}
+
+.resume-section {
+    height: 100vh;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.work-details {
+    padding: 3%;
+}
+
+.work-header {
+    background-color:#00b4d8;
+}
+
+.work-desc {
+    padding: 15px 0 15px;
+}
+
+.h3-white {
+    color: white;
+}
+
+.trainings {
+    padding: 100px;
     width: fit-content;
+}
+
+.trainings-pic {
+    height: 100%;
+    width: 20vw;
+    padding-left: 40%;
+    padding-top: 0;
 }
